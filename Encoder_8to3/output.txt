@@ -1,0 +1,19 @@
+xcelium> source /xcelium23.09/tools/xcelium/files/xmsimrc
+xcelium> run
+Generated test cases : din = 00000001
+Generated test cases : din = 00000010
+Generated test cases : din = 00000100
+Generated test cases : din = 00001000
+Generated test cases : din = 00010000
+Generated test cases : din = 00100000
+Generated test cases : din = 01000000
+Generated test cases : din = 10000000
+Test cases drived :  din = 00000001 , dout = 000
+Test cases drived :  din = 00000010 , dout = 001
+Test cases drived :  din = 00000100 , dout = 010
+Test cases drived :  din = 00001000 , dout = 011
+Test cases drived :  din = 00010000 , dout = 100
+Test cases drived :  din = 00100000 , dout = 101
+Test cases drived :  din = 01000000 , dout = 110
+Test cases drived :  din = 10000000 , dout = 111
+xmsim: *W,RNQUIE: Simulation is complete.
