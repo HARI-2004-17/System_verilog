@@ -1,1 +1,28 @@
-
+Contains Synopsys proprietary information.
+Compiler version U-2023.03-SP2_Full64; Runtime version U-2023.03-SP2_Full64;  Aug 11 05:27 2025
+ Generator test cases : a=1111, b=1110 , cin=0
+ Generator test cases : a=0101, b=0011 , cin=0
+ Generator test cases : a=0111, b=1101 , cin=0
+ Generator test cases : a=1010, b=0001 , cin=0
+ Generator test cases : a=0100, b=1100 , cin=0
+ Generator test cases : a=1101, b=0010 , cin=0
+ Generator test cases : a=0111, b=0010 , cin=0
+ Generator test cases : a=0111, b=0111 , cin=0
+ Generator test cases : a=0101, b=1110 , cin=0
+ Generator test cases : a=1101, b=0111 , cin=0
+The received test cases a =1111, b =1110, c =0, Dut o/p sum =1101, carry =1
+The received test cases a =0101, b =0011, c =0, Dut o/p sum =1000, carry =0
+The received test cases a =0111, b =1101, c =0, Dut o/p sum =0100, carry =1
+The received test cases a =1010, b =0001, c =0, Dut o/p sum =1011, carry =0
+The received test cases a =0100, b =1100, c =0, Dut o/p sum =0000, carry =1
+The received test cases a =1101, b =0010, c =0, Dut o/p sum =1111, carry =0
+The received test cases a =0111, b =0010, c =0, Dut o/p sum =1001, carry =0
+The received test cases a =0111, b =0111, c =0, Dut o/p sum =1110, carry =0
+The received test cases a =0101, b =1110, c =0, Dut o/p sum =0011, carry =1
+The received test cases a =1101, b =0111, c =0, Dut o/p sum =0100, carry =1
+           V C S   S i m u l a t i o n   R e p o r t 
+Time: 100 ns
+CPU Time:      0.360 seconds;       Data structure size:   0.0Mb
+Mon Aug 11 05:27:06 2025
+Finding VCD file...
+./waveform.vcd
